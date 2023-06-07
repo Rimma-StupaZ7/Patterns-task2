@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/e76tcjj5gmus5c67?svg=true)](https://ci.appveyor.com/project/Rimma-StupaZ7/patterns-task2)
